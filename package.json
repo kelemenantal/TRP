@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mammoth": "^1.8.0",
+    "openai": "^4.67.3"
+  }
+}
