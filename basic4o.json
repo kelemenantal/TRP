@@ -1,0 +1,251 @@
+[
+    {
+      "Answer": 1,
+      "Relevance": 10,
+      "Completeness": 7,
+      "Accuracy": 7,
+      "Clarity": 6,
+      "Comments": "The answer partially follows the reference but includes redundant repetition, which affects clarity. Minor calculation errors present."
+    },
+    {
+      "Answer": 2,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 9,
+      "Clarity": 9,
+      "Comments": "Thoroughly covers the rule's scope but includes extra details. Slightly verbose compared to the reference."
+    },
+    {
+      "Answer": 3,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 9,
+      "Clarity": 9,
+      "Comments": "Accurate, matches the reference answer but could specify 'dékánhelyettes' instead of 'tanulmányi dékánhelyettes.'"
+    },
+    {
+      "Answer": 4,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 10,
+      "Clarity": 9,
+      "Comments": "Relevant and aligns closely with the reference answer. Adds procedural clarity on submission method."
+    },
+    {
+      "Answer": 5,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 9,
+      "Clarity": 9,
+      "Comments": "Accurate and complete. Minor additions on committee role and structure, not fully needed but informative."
+    },
+    {
+      "Answer": 6,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 9,
+      "Clarity": 8,
+      "Comments": "Detailed but overly complex compared to the simpler reference answer. Adds unnecessary form and process details."
+    },
+    {
+      "Answer": 7,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 10,
+      "Clarity": 9,
+      "Comments": "Relevant and accurate, with additional information on credit recognition process specifics."
+    },
+    {
+      "Answer": 8,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 10,
+      "Clarity": 9,
+      "Comments": "Accurate, minor additions on submission procedure, which add clarity. Matches the reference well."
+    },
+    {
+      "Answer": 9,
+      "Relevance": 10,
+      "Completeness": 10,
+      "Accuracy": 10,
+      "Clarity": 10,
+      "Comments": "Perfectly aligned with the reference answer, providing concise information on late submission."
+    },
+    {
+      "Answer": 10,
+      "Relevance": 10,
+      "Completeness": 10,
+      "Accuracy": 10,
+      "Clarity": 10,
+      "Comments": "Clear, direct, and accurately matches the reference with a brief explanation."
+    },
+    {
+      "Answer": 11,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 9,
+      "Clarity": 9,
+      "Comments": "Slightly verbose but aligns well with the reference. Adds extra steps for clarity."
+    },
+    {
+      "Answer": 12,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 10,
+      "Clarity": 9,
+      "Comments": "Provides additional relevant details on course requirements, though slightly more than needed."
+    },
+    {
+      "Answer": 13,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 10,
+      "Clarity": 9,
+      "Comments": "Accurate, providing distinctions between CV and EV but more complex than the reference."
+    },
+    {
+      "Answer": 14,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 10,
+      "Clarity": 9,
+      "Comments": "Clear explanation, accurate with additional information about prerequisite structure."
+    },
+    {
+      "Answer": 15,
+      "Relevance": 10,
+      "Completeness": 10,
+      "Accuracy": 10,
+      "Clarity": 10,
+      "Comments": "Complete and accurate. Aligns directly with semester structure information."
+    },
+    {
+      "Answer": 16,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 9,
+      "Clarity": 8,
+      "Comments": "Thorough but could be more concise to better match the reference answer format."
+    },
+    {
+      "Answer": 17,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 9,
+      "Clarity": 9,
+      "Comments": "Clear explanation, aligns with the reference with added information on procedural details."
+    },
+    {
+      "Answer": 18,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 9,
+      "Clarity": 9,
+      "Comments": "Accurate and comprehensive, though more details are given than in the reference."
+    },
+    {
+      "Answer": 19,
+      "Relevance": 10,
+      "Completeness": 10,
+      "Accuracy": 10,
+      "Clarity": 10,
+      "Comments": "Concise and accurately matches the reference, explaining responsibilities well."
+    },
+    {
+      "Answer": 20,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 9,
+      "Clarity": 9,
+      "Comments": "Relevant and detailed with minor additions on reasons for extended suspension."
+    },
+    {
+      "Answer": 21,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 9,
+      "Clarity": 8,
+      "Comments": "Clear but overly detailed compared to the concise reference answer."
+    },
+    {
+      "Answer": 22,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 9,
+      "Clarity": 9,
+      "Comments": "Accurate and complete, providing minor procedural context not present in the reference."
+    },
+    {
+      "Answer": 23,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 9,
+      "Clarity": 9,
+      "Comments": "Accurate and matches reference with minor additional explanation on suspension limitations."
+    },
+    {
+      "Answer": 24,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 9,
+      "Clarity": 9,
+      "Comments": "Clear, detailed information on specialization. Minor additional procedural information included."
+    },
+    {
+      "Answer": 25,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 9,
+      "Clarity": 9,
+      "Comments": "Accurate, complete explanation on minor programs, but ITK-specific detail missing."
+    },
+    {
+      "Answer": 26,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 9,
+      "Clarity": 9,
+      "Comments": "Relevant and aligned, with added procedural details about data changes."
+    },
+    {
+      "Answer": 27,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 9,
+      "Clarity": 8,
+      "Comments": "Overly detailed for the context, though relevant and aligned with reference points."
+    },
+    {
+      "Answer": 28,
+      "Relevance": 10,
+      "Completeness": 10,
+      "Accuracy": 10,
+      "Clarity": 10,
+      "Comments": "Accurately lists the course types concisely as in the reference."
+    },
+    {
+      "Answer": 29,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 9,
+      "Clarity": 9,
+      "Comments": "Provides clear explanation of deadlines and policies with some added procedural detail."
+    },
+    {
+      "Answer": 30,
+      "Relevance": 10,
+      "Completeness": 9,
+      "Accuracy": 9,
+      "Clarity": 9,
+      "Comments": "Accurate, aligned with reference, though more detailed than necessary for beiratkozás request."
+    },
+    {
+      "Answer": 31,
+      "Relevance": 10,
+      "Completeness": 10,
+      "Accuracy": 10,
+      "Clarity": 10,
+      "Comments": "Clear and directly matches the reference, specifying necessary document requirements."
+    }
+  ]
+  
