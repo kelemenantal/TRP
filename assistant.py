@@ -1,12 +1,19 @@
 import os
+from dotenv import load_dotenv
 from openai import OpenAI
 from openai import AssistantEventHandler
 from typing_extensions import override
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Ensure the environment variable is set
 api_key = os.getenv('OPENAI_API_KEY')
 if not api_key:
     raise ValueError("OpenAI API key is not set in the environment variable")
+
+# Rest of your code
+
 
 client = OpenAI(api_key=api_key)
 
